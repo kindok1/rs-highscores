@@ -3,7 +3,7 @@
 <html>
 <head>
 <link rel="icon" type="image/vnd.microsoft.icon" href="assets/img/favicon.ico">
-<title>YOUERSERVER HighScores</title>
+<title>HEY HighScores</title>
 <style type="text/css">/*\*/@import url(assets/css/index.css);/**/</style>
 <script type="text/javascript" src="http://www.jagex.com/js/jquery/jquery_1_3_2.js"></script>
 </head>
@@ -132,7 +132,7 @@ D
 </div>
 <div id="footer"><div class="contain">
 <div class="footerdesc">
-Website design and stylesheets are copyright © 1999 - 2010 Jagex Ltd<br />
+Website design and stylesheets are copyright ï¿½ 1999 - 2010 Jagex Ltd<br />
 MySQL/PHP By John (deathschaos9)
 </div>
 
